@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://calltuv.github.io/calltuv-cheap-calls/sitemap.xml
